@@ -7,7 +7,7 @@ namespace Yonetim
     {
         static void Main(string[] args)
         {
-            string connectionString = "Server=USER;Database=deneme;Integrated Security=true;TrustServerCertificate=True";
+            string connectionString = "";
             // using kelimesi sayesinde bu bir ifade şekli 
             // using amacı kapıyı aç işi bitince kapat
             // sürekli açık kalmıyor bu sayede
